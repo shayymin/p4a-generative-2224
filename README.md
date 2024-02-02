@@ -1,3 +1,3 @@
-## p5.js Project Template
+20240202 Richards Jacob 02.11 generative assignment
 
-Modified [p5.js complete project template](https://p5js.org/download/). Moved the .js files into a js folder and moved the CSS out of the `<head>` and into a external stylsheet. Made for use in [Programming for Artists](https://whatmakeart.com/courses/programming-for-artists/2024-spring/) course.
+generative assignment, click and hold to introduce randomness (zap)
